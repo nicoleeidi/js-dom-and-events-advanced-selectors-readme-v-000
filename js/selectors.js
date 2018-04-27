@@ -9,5 +9,8 @@ function ninjaBabySelector(){
   $('#baby-ninja')
 }
 function divSelector(){
-  $(''.pics')
+  $('.pics')
+}
+function firstListItem(){
+
 }
